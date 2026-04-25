@@ -1,0 +1,12 @@
+// Declarar variables
+String nombreCompleto = "";
+// Solicitar al usuario su nombre completo
+Console.WriteLine("Ingresa tu nombre: ");
+nombreCompleto = Console.ReadLine();
+// Mostrar informacion del usuario
+saludar(nombreCompleto);
+
+void saludar(String nombres)
+{
+    Console.WriteLine("Hola " + nombres + "bienvenido a mi sistema");
+}
