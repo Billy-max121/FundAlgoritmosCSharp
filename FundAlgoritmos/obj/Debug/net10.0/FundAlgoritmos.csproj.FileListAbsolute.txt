@@ -1,0 +1,4 @@
+G:\Fundamentos_Algoritmos2026_I\FundAlgoritmosCSharp\FundAlgoritmos\obj\Debug\net10.0\FundAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Fundamentos_Algoritmos2026_I\FundAlgoritmosCSharp\FundAlgoritmos\obj\Debug\net10.0\FundAlgoritmos.AssemblyInfoInputs.cache
+G:\Fundamentos_Algoritmos2026_I\FundAlgoritmosCSharp\FundAlgoritmos\obj\Debug\net10.0\FundAlgoritmos.AssemblyInfo.cs
+G:\Fundamentos_Algoritmos2026_I\FundAlgoritmosCSharp\FundAlgoritmos\obj\Debug\net10.0\FundAlgoritmos.csproj.CoreCompileInputs.cache
